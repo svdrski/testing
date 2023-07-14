@@ -1,0 +1,27 @@
+.inpt{
+    border-color: blue;
+}
+
+.inpt:hover{
+    border-color: blueviolet;
+}
+
+.inpt:focus{
+    border: 5px solid#000;
+}
+
+.nono li:first-child{
+    color: blueviolet;
+    font-size: 0.5em;
+}
+
+.nono li:last-child{
+    color: blue;
+    font-size: 2em;
+}
+
+.cont{
+    width: 90vw;
+    height: 90vh;
+    background-color: aquamarine;
+}
